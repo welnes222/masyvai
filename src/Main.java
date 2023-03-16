@@ -90,17 +90,38 @@ public class Main {
 //        System.out.println("devyni");
 
 
-        String[] augalumasyvas = {"dobilas", "levanda", "gvazdikas", "tulpe","zencenis","kalendra","egle","krumas","zole","berzas"};
-        int count1 = 0;
-        int count2 = 0;
-        for (int i = 0; i < augalumasyvas.length; i++) {
-            if(augalumasyvas[i] > 5 ){
-                count1++;
-            }
-        }
-        System.out.println(count1);
+//        String[] augalumasyvas = {"dobilas", "levanda", "gvazdikas", "tulpe","zencenis","kalendra","egle","krumas","zole","berzas"};
+//        int count1 = 0;
+//        int count2 = 0;
+//        for (int i = 0; i < augalumasyvas.length; i++) {
+//            if(augalumasyvas[i].length() < 5 ){
+//                count1++;
+//            }
+//        }
+//        System.out.println("maziau nei penkios raides: " + count1);
+//
+//        for (int i = 0; i < augalumasyvas.length; i++) {
+//            if(augalumasyvas[i].length() > 7 ){
+//                count2++;
+//            }
+//        }
+//        System.out.println("daugiau nei penkios raides: " + count2);
 
 
+
+//        System.out.println("desimt");
+//
+//        String[] augalumasyvas = {"dobilas", "levanda", "gvazdikas", "tulpe","zencenis","kalendra","egle","krumas","zole","berzas"};
+//
+//        int count3 = 0;
+//        for (int i = 0; i < augalumasyvas.length; i++) {
+//            if(augalumasyvas[i].length() > 5 ) {
+//                count3++;
+//                if(augalumasyvas[i].length() >= 10)
+//                    break;
+//            }
+//        }
+//        System.out.println( count3 );
 
 
 
