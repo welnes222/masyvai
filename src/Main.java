@@ -124,8 +124,65 @@ public class Main {
 //        System.out.println( count3 );
 
 
+//        System.out.println("sunkesnis1");
+//        int count = 0;
+//        for (int i = 0; i < 300; i++) {
+//            int rndm = (int) (Math.random() * 301);
+//            if (rndm < 150) {
+//                count++;
+//            }
+//        if (rndm > 275) {
+//            System.out.print("[" + rndm +"], ");
+//        }else{
+//            System.out.print(rndm + ", ");
+//        }
+//        }
+//
+//
+//        System.out.println();
+//        System.out.println(count);
 
 
+//        System.out.println("sunkesnis2");
+//
+//        String s2 = "";
+//        for (int i = 1; i < 3000; i++) {
+//            if( i % 77 == 0) {
+//              s2 += i + ", ";
+//            }
+//        }
+//        System.out.println(s2.substring(0, s2.length()-2));
+
+
+//        System.out.println("sunkesnis3");
+//
+//
+//
+//        for (int i = 0; i < 25; i++) {
+//            String x = "";
+//            for (int a = 0; a < 25; a++) {
+//                x +=  "*";
+//            }
+//                System.out.println(x);
+//        }
+//
+
+
+        System.out.println("sunkesnis5");
+
+//        String herbas = 0;
+//        String skaicius = 1;
+//        String count = 0;
+
+        while(true) {
+        int skaicius = (int) Math.round(Math.random());
+        if (skaicius == 0)
+        else if  (skaicius == 1)
+        break;
+            System.out.println(skaicius);
+
+
+        }
 
 
 
