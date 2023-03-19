@@ -168,21 +168,104 @@ public class Main {
 //
 
 
-        System.out.println("sunkesnis5");
+//        System.out.println("sunkesnis5");
 
-//        String herbas = 0;
-//        String skaicius = 1;
-//        String count = 0;
+//        while(true) {
+//        int moneta = (int) Math.round(Math.random());
+//        if (moneta == 1) {
+//            System.out.println("S");
+//        }
+//        if (moneta == 0) {
+//            System.out.println("H");
+//            break;
+//        }
+//
+//        }
 
-        while(true) {
-        int skaicius = (int) Math.round(Math.random());
-        if (skaicius == 0)
-        else if  (skaicius == 1)
-        break;
-            System.out.println(skaicius);
 
 
-        }
+
+//        int count = 0;
+//        while(true) {
+//            int moneta = (int) Math.round(Math.random());
+//            if (moneta == 0) {
+//                System.out.println("h");
+//                count++;
+//            } else {
+//                System.out.println("s");
+//            }
+//            if (count >= 3) {
+//                break;
+//            }
+//
+//        }
+
+
+//        int count = 0;
+//        while(true) {
+//            int moneta = (int) Math.round(Math.random());
+//            if (moneta == 0) {
+//                System.out.println("h");
+//                count++;
+//            } else {
+//                System.out.println("s");
+//            }
+//            if (count >= 3) {
+//                break;
+//            }
+//
+//        }
+
+
+
+
+//        int count = 0;
+//        while(true) {
+//            int moneta = (int) Math.round(Math.random());
+//            if (moneta == 0) {
+//                System.out.println("h");
+//                count++;
+//            } else {
+//                System.out.println("s");
+//                count = 0;
+//            }
+//            if (count >= 3) {
+//                break;
+//            }
+//
+//        }
+
+
+
+
+//            int pointspetras = 0;
+//            int pointskazys = 0;
+//            String winner1 = "petras";
+//            String winner2 = "kazys";
+//            while(true){
+//                int petras = 10+(int) Math.round(Math.random()*10);
+//                pointspetras += petras;
+//                int kazys = 5+(int) Math.round(Math.random()*20);
+//                pointskazys += kazys;
+//
+//                if(petras > kazys){
+//                    System.out.println("laimejo "+ winner1);
+//                }
+//                else {
+//                    System.out.println("laimejo "+ winner2);
+//                }
+//                if(pointspetras>=222 || pointskazys >=222){
+//                    break;
+//                }
+//            }
+//        System.out.println(pointspetras);
+//        System.out.println(pointskazys);
+//        if(pointspetras > pointskazys){
+//            System.out.println("laimejo Petras su "+ pointspetras + " tasku.");
+//        }
+//        else{
+//            System.out.println("laimejo Kazys su "+ pointskazys + " tasku.");
+//        }
 
 
 
